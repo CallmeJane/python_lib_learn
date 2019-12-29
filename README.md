@@ -1,0 +1,2 @@
+# python_lib_learn
+该项目主要用于练习使用python中常用的包
